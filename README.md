@@ -37,7 +37,6 @@ Automatización de procesos y desarrollo de soluciones para datos, infraestructu
 
 ### 📌 Proyectos destacados
 
-- 🩺 **[CV_Tom-s_Jim-nez](https://github.com/tomasjdev/CV_Tom-s_Jim-nez)** — Mi curriculum vitae.
 - 💼 **[Portafolio](https://github.com/tomasjdev/Portafolio)** — Portafolio de proyectos personales.
 
 ---
