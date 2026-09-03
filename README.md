@@ -37,7 +37,7 @@ Automatización de procesos y desarrollo de soluciones para datos, infraestructu
 
 ### 📌 Proyectos destacados
 
-- 💼 **[Portafolio]([https://github.com/tomasjdev/Portafolio](https://tomasjdev.github.io/Portafolio/))** — Portafolio de proyectos personales.
+- 💼 **[Portafolio]([https://github.com/tomasjdev/Portafolio])** — Portafolio de proyectos personales.
 
 ---
 
