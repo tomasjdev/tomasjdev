@@ -40,15 +40,6 @@ Automatización de procesos y desarrollo de soluciones para datos, infraestructu
 - 🩺 **[CV_Tom-s_Jim-nez](https://github.com/tomasjdev/CV_Tom-s_Jim-nez)** — Mi curriculum vitae.
 - 💼 **[Portafolio](https://github.com/tomasjdev/Portafolio)** — Portafolio de proyectos personales.
 
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tomasjdev&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasjdev&theme=default&hide_border=true" />
-
-</div>
-
 ---
 
 <div align="center">
